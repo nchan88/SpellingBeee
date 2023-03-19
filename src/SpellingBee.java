@@ -29,6 +29,7 @@ import java.util.Scanner;
  * DO NOT MODIFY MAIN OR ANY OF THE METHOD HEADERS.
  */
 public class SpellingBee {
+
     private String letters;
     private ArrayList<String> words;
     public static final int DICTIONARY_SIZE = 143091;
